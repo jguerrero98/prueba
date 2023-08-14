@@ -11,7 +11,7 @@ public class PruebaController {
 
     @GetMapping("/hello")
     public String message() {
-        return "hello";
+        return "hello"
     }
     
 }
